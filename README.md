@@ -8,7 +8,6 @@ Pokédex mostrando os 151 pokémons iniciais, onde foi utilizado a [PokeAPI](htt
 
 ## 🚀 Tecnologias
 
-
 - HTML e CSS
 - JavaScript
 
@@ -22,6 +21,6 @@ Canal do Professor [Roger Melo](https://www.youtube.com/watch?v=Uptu3NrBFBM) com
 
 ## 🌐 Visualizar
 
-Visualize o projeto através do [LINK](). 
+Visualize o projeto através do [LINK](https://pokedex-ten-sepia.vercel.app/). 
 <br>
-Feito com ❤️ por [Moises Ximenes]() 👋🏻
+Feito com ❤️ por [Moises Ximenes](https://www.linkedin.com/in/moises-ximenes/) 👋🏻
